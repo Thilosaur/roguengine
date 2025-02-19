@@ -1,0 +1,10 @@
+[package]
+name = "my-engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+raylib = "5.0.2"
+specs = "0.20.0"
+specs-derive = "0.4.1"
